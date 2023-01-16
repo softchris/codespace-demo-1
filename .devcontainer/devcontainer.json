@@ -4,5 +4,8 @@
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
-  "remoteUser": "node"
+  "remoteUser": "node",
+	"extensions": [
+		"chris-noring.node-snippets", "johnpapa.vscode-peacock"
+	]
 }
